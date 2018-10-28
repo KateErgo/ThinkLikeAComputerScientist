@@ -1,4 +1,4 @@
 # ThinkLikeAComputerScientist
 
-Contains solutions to the exercises of How to Think Like A Computer Scientist.
+Contains the solutions to How to Think Like A Computer Scientist exercises.
 (Source: http://interactivepython.org/courselib/static/thinkcspy/index.html)
