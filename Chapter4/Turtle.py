@@ -17,7 +17,7 @@ def turtles():
     
     n = int(input("\nHow many times should 'turtle' be printed? "))
     
-    allTurtles = 'turtle\n' * n
+    allTurtles = "We like Python's turtles!\n" * n
     
     print(allTurtles)
     
