@@ -18,8 +18,6 @@ def toFahrenheit():
     C = int(input("\nEnter degrees in Celcius: "))
     
     F = (C * 1.8) + 32
-    
-    return F
+    print("%.0f degrees in Celcius equals %.0f degrees in Fahrenheit." %(C,F))
 
-fahrenheit = toFahrenheit()
-print("%s degrees in Celcius equals %.0f degrees in Fahrenheit." %(C,F))
+toFahrenheit()
